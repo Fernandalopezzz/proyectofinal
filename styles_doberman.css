@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lacquer&family=Mate+SC&family=Playwrite+IN:wght@100..400&display=swap');
+
+body {
+    font-family: "Mate SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+
+    background-image: url(img/Fondod.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

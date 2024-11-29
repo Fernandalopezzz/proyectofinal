@@ -1,0 +1,23 @@
+.Cartas{
+    display: flex;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lacquer&family=Mate+SC&family=Oxanium:wght@200..800&family=Playwrite+IN:wght@100..400&display=swap');
+
+body{
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
+    background-color: #869043
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+h3{
+    color: rgb(21, 21, 21);
+}
+h4{
+    color: rgb(50, 50, 50);
+}
